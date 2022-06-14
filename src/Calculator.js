@@ -48,7 +48,7 @@ let email = urlParams.get("id");
   return (
     <div className="container">
       <form ref={form} onSubmit={sendEmail}>
-        <p>Love Calculator </p>
+        <p>💟 Love Calculator 👫</p>
         <input type="text" name="user_name" placeholder="Enter Name" />
         <input type="text" name="user_crush" placeholder="Enter Crush " />
 
